@@ -80,6 +80,8 @@ h4
     margin: 0 auto;
     padding: 5px 5px 5px 10px;
 
+    text-align: center;
+
     background: $secondBG;
     box-shadow: 0 0 20px 0 rgba(2, 2, 2, 1);
 }
@@ -130,6 +132,10 @@ h4
 {
     margin-bottom: 25px;
 }
+.infoBlock__list
+{
+    text-align: left;
+}
 .infoBlock__mainPoints
 {
     display: flex;
@@ -162,6 +168,10 @@ h4
 .infoBlock__devices
 {
     width: 40%;
+}
+.infoBlock:last-child
+{
+    margin-bottom: 5px;
 }
 
 /* ============ END OF Main ============ */

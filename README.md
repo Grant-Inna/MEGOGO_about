@@ -1,4 +1,3 @@
 # MEGOGO_about
-Testing repo
-
+For mobile devices only
 [VIEW](https://grant-inna.github.io/MEGOGO_about/)
